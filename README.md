@@ -1,103 +1,230 @@
-# 👋 Hi, I'm Nikhita Shivayogi!
+# 👋 Hey there! I'm Nikhita Shivayogi
 
-### 💻 MCA Student | Aspiring Software Developer | AI & Technology Enthusiast
+<div align="center">
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** at Presidency University, Bengaluru.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;AI+%26+Technology+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
-I'm passionate about building real-world applications, exploring emerging technologies, and continuously improving my programming and problem-solving skills.
+<br/>
 
-I enjoy transforming ideas into practical solutions through software development and Artificial Intelligence.
+[![GitHub followers](https://img.shields.io/github/followers/NikhitaShivayogi?style=for-the-badge&logo=github&color=181717)](https://github.com/NikhitaShivayogi)
+[![Profile Views](https://komarev.com/ghpvc/?username=NikhitaShivayogi&style=for-the-badge&color=blueviolet)](https://github.com/NikhitaShivayogi)
 
----
+**Turning curiosity into code and ideas into reality.**
 
-## 🚀 About Me
-
-- 🎓 Pursuing **MCA** at Presidency University, Bengaluru.
-- 💻 Interested in **Software Development, Full-Stack Development & AI/ML**.
-- 🔭 Currently working on innovative software and AI-powered projects.
-- 🌱 Exploring **Generative AI, LLMs, RAG, AI Agents & Automation Testing**.
-- 👯 Open to collaborating on interesting projects and open-source contributions.
-- 💬 Ask me about Python, Java, React, MERN Stack and AI integration.
-- 🎯 Goal: To become a skilled software professional and contribute to innovative technologies.
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧭 Explore My Universe
 
-**Programming Languages**
+<div align="center">
 
-Python | Java | JavaScript | C | C++
+[👩‍💻 About Me](#-about-me) •
+[⚡ Tech Stack](#-tech-stack) •
+[🚀 Projects](#-featured-projects) •
+[📊 GitHub Stats](#-github-analytics) •
+[🎯 Beyond Coding](#-beyond-the-code) •
+[🤝 Connect](#-lets-connect)
 
-**Frontend Development**
+</div>
 
-HTML | CSS | React.js | Tailwind CSS | Bootstrap
+---
 
-**Backend Development**
+## 👩‍💻 About Me
 
-Node.js | Express.js | Django | Flask | Spring Boot
+Hello! I'm **Nikhita**, an MCA student at Presidency University, Bengaluru, passionate about software development and emerging technologies.
 
-**Databases**
+I love exploring how technology works, developing meaningful applications, solving problems, and continuously learning new things.
 
-MySQL | MongoDB | PostgreSQL
+- 🎓 **Education:** Master of Computer Applications (MCA)
+- 💻 **Interests:** Software Development, Full-Stack Development & AI/ML
+- 🔭 **Currently building:** Innovative Web & AI-powered Applications
+- 🌱 **Currently exploring:** Generative AI, LLMs, RAG & AI Agents
+- 🎯 **Career goal:** To become an industry-ready software professional.
+- 🤝 **Open to:** Internships, collaborations and exciting development opportunities.
 
-**AI & Machine Learning**
+<details>
+<summary><b>✨ A little more about my journey</b></summary>
 
-Generative AI | LLMs | Gemini API | OpenAI API | LangChain | RAG
+My journey started with curiosity about computers and programming. Over time, that curiosity turned into a passion for building applications.
 
-**Tools & Platforms**
+I enjoy learning through practical implementation, experimenting with new technologies, and converting concepts into working projects.
 
-Git | GitHub | VS Code | Postman | Selenium | Vercel | Render
+I believe every project is an opportunity to learn something new.
+
+</details>
+
+---
+
+## ⚡ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+
+</div>
+
+### 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
+
+</div>
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring" />
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+</div>
+
+### 🤖 AI & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+<br/>
+
+`Generative AI` `LLMs` `RAG` `LangChain` `AI Agents` `Gemini API` `OpenAI API`
+
+</div>
+
+### 🛠️ Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,vercel,render" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| CivicFix | Civic issue reporting and management platform | MERN Stack |
-| CareerCompass | Job portal connecting job seekers and companies | Python, Django, MySQL |
-| StudentFlow | Personal income and expense tracker | Flask, MongoDB |
-| AI Resume Analyzer | AI-powered resume analysis and ATS evaluation | Spring Boot, React, MySQL |
-| FaceTrack | AI-based attendance management system | React, Java, Python, OpenCV |
-| MindQuest | Personalized knowledge and quiz platform | MERN, Gemini API |
+<div align="center">
+
+### 🌍 CivicFix
+**Making communities better through technology.**
+
+A MERN-based civic issue reporting platform that connects citizens with government authorities to report and track public issues.
+
+[![Live Demo](https://img.shields.io/badge/Explore-Live_Demo-success?style=for-the-badge&logo=vercel)](https://civic-fix-mu-plum.vercel.app/)
+
+### 📄 AI Job-Aware Resume Analyzer
+
+An intelligent resume analysis application that evaluates resumes, identifies skill gaps and provides ATS-focused insights.
+
+### 🎓 CareerCompass
+
+A Django-based job portal connecting job seekers and companies with job postings, applications and profile management.
+
+### 💰 StudentFlow
+
+A personal finance management application for tracking income and expenses using Flask and MongoDB.
+
+### 👁️ FaceTrack
+
+An AI-powered attendance management system integrating face recognition and attendance analytics.
+
+### 🧠 MindQuest
+
+A personalized knowledge and quiz platform powered by the Gemini API.
+
+</div>
+
+[![Explore My Repositories](https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github)](https://github.com/NikhitaShivayogi?tab=repositories)
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Analytics
 
-- Artificial Intelligence & Machine Learning
-- Generative AI and Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- AI Agents and LLM Applications
-- Software Testing & Automation Testing
-- Data Structures and Algorithms
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhitaShivayogi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhitaShivayogi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=NikhitaShivayogi&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📊 GitHub Overview
+## 🐍 Watch My Contributions Come Alive!
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=NikhitaShivayogi&color=brightgreen)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NikhitaShivayogi/NikhitaShivayogi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
 
 ---
 
-## 🎯 Beyond Technology
+## 🎯 Beyond the Code
 
-- 📚 Always interested in learning new things and exploring knowledge.
-- 🎬 Movie enthusiast who enjoys watching the latest movies and exploring different genres.
-- 👻 Fascinated by the paranormal world, mysteries and unexplained phenomena.
-- ✨ Curious mind with a passion for discovering something new every day.
+Technology isn't my only world. I enjoy exploring different things and discovering new experiences.
+
+| Interest | What I enjoy |
+|---|---|
+| 📚 Learning | Exploring new concepts and expanding my knowledge |
+| 🎬 Movies | Watching the latest movies and exploring different genres |
+| 👻 Paranormal | Mysteries, paranormal activities and unexplained phenomena |
+| 🔍 Curiosity | Discovering unusual facts and exploring the unknown |
+
+<details>
+<summary><b>👻 Enter my mysterious side...</b></summary>
+
+The paranormal world has always fascinated me.
+
+Unexplained events, mysterious stories, supernatural theories and questions without answers make me curious.
+
+**Some mysteries are more interesting when they remain mysteries!** 🌌
+
+</details>
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always interested in connecting with developers, learning from others, sharing ideas, and collaborating on exciting projects.
+<div align="center">
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/nikhitashivayogi/)
-- 💻 GitHub: [NikhitaShivayogi](https://github.com/NikhitaShivayogi)
+I'm always excited to connect with developers, technology enthusiasts, recruiters and people who love building innovative things.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NikhitaShivayogi)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhitashivayogi/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/NikhitaShivayogi/Personal-Portfolio)
+
+</div>
 
 ---
 
-### 💡 "Learning never stops, and innovation begins with curiosity."
+<div align="center">
 
-⭐ Thanks for visiting my GitHub profile! 
+### 💫 A Thought to Remember
+
+**"Dream big. Learn continuously. Build fearlessly. Keep exploring."**
+
+<br/>
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+**Thanks for visiting my little corner of GitHub!** 💜
+
+</div>
