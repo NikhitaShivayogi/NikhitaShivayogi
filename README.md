@@ -1,136 +1,330 @@
+
 <div align="center">
 
-# Hi, I'm Nikhita A Shivayogi 👋
+# Hi there, I'm Nikhita A Shivayogi! 👋
 
-### MCA Student · Full-Stack Development · Exploring AI & Machine Learning
+### 💜 MCA Student | Software Developer | Full-Stack & AI Enthusiast
 
-*Building useful applications, learning continuously, and turning ideas into working software.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Passionate+About+Software+Development;Building+Full-Stack+Web+Applications;Exploring+AI+%26+Machine+Learning;Learning%2C+Building+%26+Growing+Every+Day" alt="Typing Animation" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://nikhitashivayogi.github.io/Personal-Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhitashivayogi)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhitashivayogi3@gmail.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/nikhitashivayogi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://nikhitashivayogi.github.io/Personal-Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:nikhitashivayogi3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=NikhitaShivayogi&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-### ✨ About Me
+## 👩‍💻 About Me
 
-- 🎓 Pursuing a **Master of Computer Applications (MCA)** at **Presidency University, Bengaluru**.
-- 💻 Interested in **software development, full-stack applications, and AI/ML**.
-- 🧩 Enjoy building projects that solve practical problems and learning by doing.
-- 🌱 Currently strengthening my development and problem-solving skills.
-- 🎬 Outside tech: movies, learning new things, and exploring paranormal mysteries.
+I'm **Nikhita A Shivayogi**, a passionate Computer Applications student currently pursuing my **Master of Computer Applications (MCA)** at **Presidency University, Bengaluru**.
 
-### 🛠️ Tech Stack
+I enjoy turning ideas into practical software solutions, developing full-stack applications, and exploring emerging technologies in Artificial Intelligence and Machine Learning.
 
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- 🎓 Pursuing **MCA at Presidency University, Bengaluru**
+- 💻 Interested in **Software Development and Full-Stack Development**
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**
+- 🛠️ Experienced in building web applications using **Java, Python, React, and Node.js**
+- 🚀 Building and deploying real-world projects
+- 🌱 Continuously learning new technologies and improving my problem-solving skills
+- 🎯 Career Goal: **Become a skilled Software Engineer and contribute to impactful technology solutions**
 
-**Frameworks & Web**  
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-444444?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-`REST APIs` · `JDBC` · `Servlets` · `JSP`
+---
 
-**Databases, AI & Data**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-`Matplotlib` · `Model Training & Evaluation`
+## 🛠️ Technical Skills
 
-**Tools & Deployment**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-444444?style=flat-square&logo=render&logoColor=white)  
-`Eclipse` · `Cursor` · `Kiro`
+### 💻 Programming Languages
 
-### 🚀 Featured Deployed Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="Programming Languages" />
+</p>
+
+`C` · `C++` · `Java` · `Python` · `JavaScript`
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,spring,react,express,nodejs&theme=dark" alt="Frameworks and Libraries" />
+</p>
+
+`Django` · `Flask` · `Spring Boot` · `React` · `Express.js` · `Node.js`
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web Technologies" />
+</p>
+
+`HTML5` · `CSS3` · `REST APIs` · `JDBC` · `Servlets` · `JSP`
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
+</p>
+
+`MySQL` · `MongoDB`
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" alt="AI and Machine Learning" />
+</p>
+
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `TensorFlow` · `Model Training & Evaluation`
+
+### 🔧 Development Tools & Version Control
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" alt="Development Tools" />
+</p>
+
+`Git` · `GitHub` · `VS Code` · `Google Colab` · `Eclipse` · `Cursor` · `Kiro`
+
+### ☁️ Deployment Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Deployment Platforms" />
+</p>
+
+`Vercel` · `Render`
+
+<details>
+<summary><b>📚 Core Computer Science Concepts</b></summary>
+
+<br/>
+
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Software Development Life Cycle (SDLC)
+- Operating Systems
+- Database Management Systems (DBMS)
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### Building Ideas Into Real-World Applications
+
+*Here are some of the projects I've developed and deployed.*
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏙️ CivicFix
-**Civic issue reporting and tracking platform**
+### 🧠 MindQuest
 
-A MERN application for reporting local public issues, tracking progress, and connecting citizens with responsible authorities.
+**Your Personalized Knowledge Journey**
+
+An AI-powered learning and quiz application designed to make learning more engaging through personalized quizzes and performance analytics.
+
+**Key Features**
+- Interactive multiple-choice quizzes
+- AI-powered learning experience
+- Performance tracking and analytics
+- User authentication
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ CivicFix
+
+**Smart Civic Issue Reporting Platform**
+
+A full-stack platform that enables citizens to report civic issues and track their resolution through a structured workflow.
+
+**Key Features**
+- Citizen, Authority, and Admin roles
+- Location-based civic issue reporting
+- Image uploads and issue categorization
+- Status tracking and notifications
+
+**Tech Stack**
 
 `MongoDB` `Express.js` `React` `Node.js`
 
-[**🌐 Live App**](https://civic-fix-mu-plum.vercel.app/) · [**🔎 Find Repository**](https://github.com/NikhitaShivayogi?tab=repositories&q=CivicFix)
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 MindQuest
-**Personalized knowledge journey**
-
-An interactive learning and quiz application with personalized practice and progress insights.
-
-`React` `Node.js` `Express.js` `MongoDB`
-
-[**🔎 Find Repository**](https://github.com/NikhitaShivayogi?tab=repositories&q=MindQuest)
+<a href="https://civic-fix-mu-plum.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-#### 💸 StudentFlow
-**Student income and expense tracker**
+### 💰 StudentFlow
 
-A web application to manage income, record expenses, and better understand personal spending.
+**Student Income & Expense Tracker**
+
+A web-based financial management application that helps students organize and monitor their income and expenses.
+
+**Key Features**
+- Income and expense management
+- Financial record tracking
+- Organized transaction history
+- Database-backed data management
+
+**Tech Stack**
 
 `Python` `Flask` `MongoDB`
 
-[**💻 Source Code**](https://github.com/NikhitaShivayogi/StudentFlow)
+<br/>
+
+<a href="https://github.com/NikhitaShivayogi/StudentFlow">
+  <img src="https://img.shields.io/badge/Source_Code-21262D?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔭 Explore More
-I also work on projects across web development, Java/Python backends, and AI-related applications.
+### ✨ More Projects
 
-[**📂 Browse All Repositories**](https://github.com/NikhitaShivayogi?tab=repositories)
+I'm continuously exploring new technologies, building applications, and improving my development skills.
+
+My repositories include work related to:
+
+- Full-Stack Web Development
+- Python and Java Development
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+
+<br/>
+
+<a href="https://github.com/NikhitaShivayogi?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
 </table>
 
-> **Project links:** CivicFix's live URL and StudentFlow's repository URL are included. Add the confirmed live URLs for MindQuest and StudentFlow, plus exact repository URLs for MindQuest and CivicFix, when available.
+---
 
-### 💼 Experience
+## 💼 Professional Experience
 
-**Python Full-Stack Web Development Intern** · **SkyllX**  
-*February 2025 – April 2025*
+### 🐍 Python Full-Stack Web Development Intern
 
-- Built web applications using Python, HTML, CSS, JavaScript, and MySQL.
-- Worked with CRUD operations, database connectivity, and responsive interfaces.
-- Strengthened practical backend development and database integration skills.
+**SkyllX | February 2025 – April 2025**
 
-### 📜 Certifications
+- Built full-stack web applications using **Python, HTML, CSS, JavaScript, and MySQL**, implementing CRUD operations and database connectivity.
+- Developed responsive web applications and applied core Python programming concepts to practical projects.
+- Strengthened backend development and database integration skills through hands-on experience.
 
-- **Robotics** — NPTEL
-- **Introduction to Prompt Engineering for Generative AI** — LinkedIn Learning
-- **Python Programming** — Reliance Foundation Skilling Academy
-- **Full Stack Development** — Udemy
+---
 
-### 📈 GitHub Activity
+## 🎓 Education
+
+| Degree | Institution | Duration |
+|:---|:---|:---|
+| 🎓 Master of Computer Applications (MCA) | Presidency University, Bengaluru | 2025 – 2027 |
+| 🎓 Bachelor of Computer Applications (BCA) | ARJ BCA College, Ilkal | 2022 – 2025 |
+
+---
+
+## 🏆 Certifications & Learning
+
+| Certification | Issuing Organization |
+|:---|:---|
+| 🤖 Robotics | NPTEL |
+| ✨ Introduction to Prompt Engineering for Generative AI | LinkedIn Learning |
+| 🐍 Python Programming | Reliance Foundation Skilling Academy |
+| 🌐 Full Stack Development | Udemy |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/NikhitaShivayogi?style=for-the-badge&logo=github&label=Followers)](https://github.com/NikhitaShivayogi?tab=followers)
-[![GitHub public repos](https://img.shields.io/badge/Explore-Public%20Repositories-8B5CF6?style=for-the-badge&logo=github)](https://github.com/NikhitaShivayogi?tab=repositories)
+<a href="https://github.com/NikhitaShivayogi">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikhitaShivayogi&theme=tokyonight" alt="GitHub Contribution Summary" width="95%" />
+</a>
 
-**[View my contributions and activity on GitHub](https://github.com/NikhitaShivayogi)**
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikhitaShivayogi&theme=tokyonight" alt="Repositories per Language" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikhitaShivayogi&theme=tokyonight" alt="Most Committed Languages" width="45%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikhitaShivayogi&theme=tokyonight" alt="GitHub Statistics" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikhitaShivayogi&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="45%" />
 
 </div>
 
 ---
 
+## 🌱 Currently Exploring
+
+- Advanced Full-Stack Development
+- Artificial Intelligence and Machine Learning
+- Reinforcement Learning
+- Software Development and Testing
+- Building and Deploying Real-World Applications
+
+---
+
+## 💜 Beyond Coding
+
+When I'm not coding, I enjoy:
+
+- 📚 Learning new things and exploring interesting topics
+- 🎬 Watching new movies
+- 🔮 Exploring mysteries and the paranormal world
+- 💡 Discovering new ideas and technologies
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-### 🤝 Let's Connect
+I'm always interested in learning, collaborating, and connecting with people who share a passion for technology and software development.
 
-I'm always interested in learning, building meaningful projects, and connecting with people in tech.
+<br/>
 
-[Portfolio](https://nikhitashivayogi.github.io/Personal-Portfolio) · [LinkedIn](https://www.linkedin.com/in/nikhitashivayogi) · [Email](mailto:nikhitashivayogi3@gmail.com)
+<a href="https://www.linkedin.com/in/nikhitashivayogi">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-*Thanks for visiting! ✨*
+<a href="mailto:nikhitashivayogi3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://nikhitashivayogi.github.io/Personal-Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ✨ "Keep Learning. Keep Building. Keep Growing."
+
+**Thanks for visiting my GitHub profile! 💜**
 
 </div>
