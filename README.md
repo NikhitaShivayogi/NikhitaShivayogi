@@ -1,30 +1,45 @@
-# 👋 Hey there! I'm Nikhita Shivayogi
+<!-- ===================================================== -->
+<!--                NIKHITA SHIVAYOGI                    -->
+<!--                 GITHUB PROFILE                     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;AI+%26+Technology+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
+<!-- HEADER BANNER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00B4DB,100:7F00FF&height=220&section=header&text=Nikhita%20Shivayogi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code%20%7C%20Create%20%7C%20Explore&descAlignY=58&descSize=20" />
+
+<!-- TYPING INTRODUCTION -->
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=MCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Technology+Enthusiast+%F0%9F%A4%96;Always+Learning+%7C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/NikhitaShivayogi?style=for-the-badge&logo=github&color=181717)](https://github.com/NikhitaShivayogi)
-[![Profile Views](https://komarev.com/ghpvc/?username=NikhitaShivayogi&style=for-the-badge&color=blueviolet)](https://github.com/NikhitaShivayogi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhitaShivayogi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhitashivayogi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/NikhitaShivayogi/Personal-Portfolio)
 
-**Turning curiosity into code and ideas into reality.**
+![Profile Views](https://komarev.com/ghpvc/?username=NikhitaShivayogi&style=flat-square&color=blueviolet)
 
 </div>
 
 ---
 
-## 🧭 Explore My Universe
+<!-- NAVIGATION -->
 
 <div align="center">
 
-[👩‍💻 About Me](#-about-me) •
-[⚡ Tech Stack](#-tech-stack) •
-[🚀 Projects](#-featured-projects) •
-[📊 GitHub Stats](#-github-analytics) •
-[🎯 Beyond Coding](#-beyond-the-code) •
-[🤝 Connect](#-lets-connect)
+### 🧭 EXPLORE MY PROFILE
+
+[About Me](#-about-me) •
+[Tech Stack](#-technology-stack) •
+[Projects](#-featured-projects) •
+[Learning](#-currently-exploring) •
+[Statistics](#-github-analytics) •
+[Interests](#-beyond-technology) •
+[Contact](#-lets-connect)
 
 </div>
 
@@ -32,37 +47,44 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Nikhita**, an MCA student at Presidency University, Bengaluru, passionate about software development and emerging technologies.
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I love exploring how technology works, developing meaningful applications, solving problems, and continuously learning new things.
+Hello! I'm **Nikhita Shivayogi**, an MCA student at **Presidency University, Bengaluru**, with a passion for software development and emerging technologies.
 
-- 🎓 **Education:** Master of Computer Applications (MCA)
-- 💻 **Interests:** Software Development, Full-Stack Development & AI/ML
-- 🔭 **Currently building:** Innovative Web & AI-powered Applications
-- 🌱 **Currently exploring:** Generative AI, LLMs, RAG & AI Agents
-- 🎯 **Career goal:** To become an industry-ready software professional.
-- 🤝 **Open to:** Internships, collaborations and exciting development opportunities.
+I enjoy developing real-world applications, exploring innovative ideas, and turning complex problems into practical solutions.
+
+- 🎓 Pursuing Master of Computer Applications (MCA).
+- 💻 Interested in Software Development and Full-Stack Engineering.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🔭 Building practical web applications and AI-powered projects.
+- 🌱 Continuously learning new technologies.
+- 🤝 Interested in open-source contributions and collaborations.
+- 🎯 Working towards becoming an industry-ready software professional.
+
+<br clear="right"/>
 
 <details>
-<summary><b>✨ A little more about my journey</b></summary>
+<summary><b>✨ More About My Journey</b></summary>
 
-My journey started with curiosity about computers and programming. Over time, that curiosity turned into a passion for building applications.
+My interest in technology started with curiosity about how software applications work.
 
-I enjoy learning through practical implementation, experimenting with new technologies, and converting concepts into working projects.
+As I explored programming, web development and AI, I became more interested in creating applications that solve real-world problems.
 
-I believe every project is an opportunity to learn something new.
+I believe in learning by building, experimenting and improving with every project.
+
+My journey is about continuous growth, practical experience and exploring the possibilities of technology.
 
 </details>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Technology Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=dark" />
 
 </div>
 
@@ -70,7 +92,7 @@ I believe every project is an opportunity to learn something new.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite&theme=dark" />
 
 </div>
 
@@ -78,7 +100,7 @@ I believe every project is an opportunity to learn something new.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring&theme=dark" />
 
 </div>
 
@@ -86,7 +108,7 @@ I believe every project is an opportunity to learn something new.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
 
 </div>
 
@@ -94,11 +116,17 @@ I believe every project is an opportunity to learn something new.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
 
-<br/>
+<br/><br/>
 
-`Generative AI` `LLMs` `RAG` `LangChain` `AI Agents` `Gemini API` `OpenAI API`
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-4169E1?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00A896?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
 
 </div>
 
@@ -106,7 +134,7 @@ I believe every project is an opportunity to learn something new.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium,vercel,render&theme=dark" />
 
 </div>
 
@@ -116,36 +144,138 @@ I believe every project is an opportunity to learn something new.
 
 <div align="center">
 
-### 🌍 CivicFix
-**Making communities better through technology.**
-
-A MERN-based civic issue reporting platform that connects citizens with government authorities to report and track public issues.
-
-[![Live Demo](https://img.shields.io/badge/Explore-Live_Demo-success?style=for-the-badge&logo=vercel)](https://civic-fix-mu-plum.vercel.app/)
-
-### 📄 AI Job-Aware Resume Analyzer
-
-An intelligent resume analysis application that evaluates resumes, identifies skill gaps and provides ATS-focused insights.
-
-### 🎓 CareerCompass
-
-A Django-based job portal connecting job seekers and companies with job postings, applications and profile management.
-
-### 💰 StudentFlow
-
-A personal finance management application for tracking income and expenses using Flask and MongoDB.
-
-### 👁️ FaceTrack
-
-An AI-powered attendance management system integrating face recognition and attendance analytics.
-
-### 🧠 MindQuest
-
-A personalized knowledge and quiz platform powered by the Gemini API.
+*Ideas transformed into applications through code and creativity.*
 
 </div>
 
-[![Explore My Repositories](https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github)](https://github.com/NikhitaShivayogi?tab=repositories)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌍 CivicFix</h3>
+
+A civic issue reporting platform connecting citizens with government authorities to report and track public problems.
+
+**Tech Stack**
+
+![MERN](https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+
+**[🚀 Live Application](https://civic-fix-mu-plum.vercel.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 AI Resume Analyzer</h3>
+
+An intelligent resume analysis application that evaluates ATS compatibility, extracts skills and identifies skill gaps.
+
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+
+**[💻 Source Code](YOUR_AI_RESUME_ANALYZER_REPOSITORY)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎓 CareerCompass</h3>
+
+A job portal connecting job seekers and companies with job postings, applications, profiles and recruitment management.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+
+**[💻 Source Code](YOUR_CAREERCOMPASS_REPOSITORY)**
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💰 StudentFlow</h3>
+
+A personal finance management application to track income, expenses and financial activities.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+
+**[💻 Source Code](https://github.com/NikhitaShivayogi/StudentFlow)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>👁️ FaceTrack</h3>
+
+An AI-powered attendance management system integrating facial recognition, automated attendance and HR analytics.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
+
+**[💻 Source Code](YOUR_FACETRACK_REPOSITORY)**
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 MindQuest</h3>
+
+A personalized knowledge platform featuring interactive quizzes, learning experiences and AI-powered assistance.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square)
+
+**[💻 Source Code](YOUR_MINDQUEST_REPOSITORY)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Explore All Repositories](https://img.shields.io/badge/EXPLORE_ALL_MY_PROJECTS-181717?style=for-the-badge&logo=github)](https://github.com/NikhitaShivayogi?tab=repositories)
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| Technology | Learning Focus |
+|:---|:---|
+| 🤖 Generative AI | Building AI-powered applications |
+| 🧠 LLMs | Understanding and integrating language models |
+| 🔎 RAG | Context-aware AI applications |
+| 🕸️ AI Agents | Intelligent automated workflows |
+| 🧪 Automation Testing | Selenium and software test automation |
+| 💻 DSA | Improving problem-solving skills |
+
+</div>
 
 ---
 
@@ -153,47 +283,79 @@ A personalized knowledge and quiz platform powered by the Gemini API.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhitaShivayogi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/NikhitaShivayogi">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhitaShivayogi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhitaShivayogi&layout=compact&theme=tokyonight&hide_border=true" />
 
+</a>
+
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=NikhitaShivayogi&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=NikhitaShivayogi&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Watch My Contributions Come Alive!
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NikhitaShivayogi/NikhitaShivayogi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/NikhitaShivayogi/NikhitaShivayogi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
 ---
 
-## 🎯 Beyond the Code
+## 🎭 Beyond Technology
 
-Technology isn't my only world. I enjoy exploring different things and discovering new experiences.
+Technology is one part of my world. I also enjoy exploring different interests, discovering new things and learning beyond academics.
 
-| Interest | What I enjoy |
-|---|---|
-| 📚 Learning | Exploring new concepts and expanding my knowledge |
-| 🎬 Movies | Watching the latest movies and exploring different genres |
-| 👻 Paranormal | Mysteries, paranormal activities and unexplained phenomena |
-| 🔍 Curiosity | Discovering unusual facts and exploring the unknown |
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📚 Learning
+
+Always curious about new concepts, knowledge and discoveries.
+
+</td>
+<td width="50%" align="center">
+
+### 🎬 Movies
+
+Love watching the latest movies and exploring different genres.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 👻 Paranormal World
+
+Fascinated by mysteries, paranormal activities and unexplained phenomena.
+
+</td>
+<td width="50%" align="center">
+
+### 🔍 Curiosity
+
+Enjoy discovering unusual facts, exploring ideas and asking questions.
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>👻 Enter my mysterious side...</b></summary>
+<summary><b>👻 A Peek Into My Mysterious Side</b></summary>
 
-The paranormal world has always fascinated me.
+The paranormal world has always been an interesting subject for me.
 
-Unexplained events, mysterious stories, supernatural theories and questions without answers make me curious.
+Unexplained events, mysterious places, supernatural stories and questions without answers always make me curious.
 
-**Some mysteries are more interesting when they remain mysteries!** 🌌
+**Not everything has to be understood to be fascinating!** 🌌
 
 </details>
 
@@ -203,28 +365,40 @@ Unexplained events, mysterious stories, supernatural theories and questions with
 
 <div align="center">
 
-I'm always excited to connect with developers, technology enthusiasts, recruiters and people who love building innovative things.
+### Have an idea? Let's build something amazing!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NikhitaShivayogi)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhitashivayogi/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/NikhitaShivayogi/Personal-Portfolio)
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 A Thought to Remember
-
-**"Dream big. Learn continuously. Build fearlessly. Keep exploring."**
+I'm always happy to connect with developers, recruiters, technology enthusiasts and people who love exploring new ideas.
 
 <br/>
 
-⭐ If you find my projects interesting, consider giving them a star!
+<a href="https://github.com/NikhitaShivayogi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Thanks for visiting my little corner of GitHub!** 💜
+<a href="https://www.linkedin.com/in/nikhitashivayogi/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/NikhitaShivayogi/Personal-Portfolio">
+<img src="https://img.shields.io/badge/My_Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💫 My Philosophy
+
+**"Dream. Learn. Build. Explore. Repeat."**
+
+<br/>
+
+⭐ If you like my work, consider exploring my repositories and giving them a star!
+
+</div>
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00B4DB,100:7F00FF&height=120&section=footer" />
 
 </div>
