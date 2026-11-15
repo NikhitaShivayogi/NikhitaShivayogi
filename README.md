@@ -1,68 +1,59 @@
 
-<!-- =========================================================
-     NIKHITA A SHIVAYOGI — GITHUB PROFILE
-     Modern • Minimal • Professional
-========================================================= -->
+<!-- ==========================================================
+     NIKHITA A SHIVAYOGI | GITHUB PROFILE README
+     Theme: Purple Neon • Modern • Professional
+========================================================== -->
 
 <div align="center">
 
-<br/>
-
-<img src="./Nikita.jpeg" alt="Nikhita A Shivayogi" width="155"/>
-
-<br/><br/>
-
-# Nikhita A Shivayogi
-
-### Software Developer  ·  Full-Stack Enthusiast  ·  AI/ML Explorer
-
-**Turning ideas into meaningful digital experiences.**
+<img src="./banner.png" alt="Nikhita A Shivayogi | Developer Portfolio" width="100%"/>
 
 <br/>
 
-<a href="https://nikhitashivayogi.github.io/Personal-Portfolio">
-  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://github.com/NikhitaShivayogi">
+  <img src="https://img.shields.io/badge/GitHub-171321?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/nikhitashivayogi">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://nikhitashivayogi.github.io/Personal-Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:nikhitashivayogi3@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-`MCA @ Presidency University` &nbsp; • &nbsp; `Bengaluru, India` &nbsp; • &nbsp; `Open to Learning & Collaboration`
-
-<br/>
+<img src="https://komarev.com/ghpvc/?username=NikhitaShivayogi&label=PROFILE+VIEWS&color=9333EA&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 01. The Developer Behind the Code
+## 💜 About Me
 
-I'm **Nikhita**, an MCA student at **Presidency University, Bengaluru**, with a passion for building practical software applications.
+I'm **Nikhita A Shivayogi**, an aspiring Software Engineer currently pursuing my **Master of Computer Applications (MCA)** at **Presidency University, Bengaluru**.
 
-My interests span **full-stack web development, software engineering, artificial intelligence, and machine learning**. I enjoy exploring how different technologies come together to solve real-world problems.
+I enjoy designing and developing full-stack applications, solving real-world problems through software, and exploring Artificial Intelligence and Machine Learning.
 
-I believe in learning by building — taking an idea, understanding the challenge, and transforming it into a functional application.
+My approach is simple: **understand the problem, build a solution, keep improving.**
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 03
 **Deployed Projects**
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 01
-**Internship Experience**
+**Internship**
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 04
 **Certifications**
@@ -73,155 +64,127 @@ I believe in learning by building — taking an idea, understanding the challeng
 
 ---
 
-## 02. What I Work With
+## ⚡ Technical Arsenal
 
 <div align="center">
 
-*My technical toolkit — from programming fundamentals to deployed applications.*
+*Technologies I use to turn ideas into working applications.*
 
 </div>
 
 <table>
 <tr>
-<td width="28%" valign="top">
-
-**LANGUAGES**
-
-</td>
+<td width="27%" valign="top"><b>💻 Languages</b></td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C++-334155?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-211B36?style=flat-square&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-211B36?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-211B36?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-211B36?style=flat-square&logo=python&logoColor=FFD43B" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-211B36?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 
 </td>
 </tr>
 
 <tr>
+<td valign="top"><b>⚙️ Frameworks</b></td>
 <td valign="top">
 
-**FRAMEWORKS & RUNTIME**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-334155?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Spring_Boot-334155?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Django-334155?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-334155?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/React-211B36?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-211B36?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-211B36?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Spring_Boot-211B36?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Django-211B36?style=flat-square&logo=django&logoColor=44B78B" alt="Django"/>
+<img src="https://img.shields.io/badge/Flask-211B36?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 
 </td>
 </tr>
 
 <tr>
+<td valign="top"><b>🌐 Web Technologies</b></td>
 <td valign="top">
 
-**WEB TECHNOLOGIES**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JDBC-334155?style=flat-square" alt="JDBC"/>
-<img src="https://img.shields.io/badge/Servlets-334155?style=flat-square" alt="Servlets"/>
-<img src="https://img.shields.io/badge/JSP-334155?style=flat-square" alt="JSP"/>
+<img src="https://img.shields.io/badge/HTML5-211B36?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-211B36?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/REST_APIs-211B36?style=flat-square&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/JDBC-211B36?style=flat-square&logoColor=white" alt="JDBC"/>
+<img src="https://img.shields.io/badge/Servlets-211B36?style=flat-square&logoColor=white" alt="Servlets"/>
+<img src="https://img.shields.io/badge/JSP-211B36?style=flat-square&logoColor=white" alt="JSP"/>
 
 </td>
 </tr>
 
 <tr>
+<td valign="top"><b>🗄️ Databases</b></td>
 <td valign="top">
 
-**DATABASES**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-211B36?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-211B36?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
 
 </td>
 </tr>
 
 <tr>
+<td valign="top"><b>🤖 AI & ML</b></td>
 <td valign="top">
 
-**AI & MACHINE LEARNING**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/NumPy-334155?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-334155?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Scikit--learn-334155?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/NumPy-211B36?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-211B36?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-211B36?style=flat-square&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Scikit--learn-211B36?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-211B36?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
 
 <br/>
 
-`Model Training & Evaluation`
+<sub>Model Training & Evaluation</sub>
 
 </td>
 </tr>
 
 <tr>
+<td valign="top"><b>🛠️ Tools</b></td>
 <td valign="top">
 
-**DEVELOPER TOOLS**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-334155?style=flat-square&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Google_Colab-334155?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-<img src="https://img.shields.io/badge/Eclipse-334155?style=flat-square&logo=eclipseide&logoColor=white" alt="Eclipse"/>
-<img src="https://img.shields.io/badge/Cursor-334155?style=flat-square" alt="Cursor"/>
-<img src="https://img.shields.io/badge/Kiro-334155?style=flat-square" alt="Kiro"/>
+<img src="https://img.shields.io/badge/Git-211B36?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-211B36?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-211B36?style=flat-square" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Google_Colab-211B36?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
+<img src="https://img.shields.io/badge/Eclipse-211B36?style=flat-square&logo=eclipseide&logoColor=F7941E" alt="Eclipse"/>
+<img src="https://img.shields.io/badge/Cursor-211B36?style=flat-square" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Kiro-211B36?style=flat-square" alt="Kiro"/>
 
 </td>
 </tr>
 
 <tr>
+<td valign="top"><b>☁️ Deployment</b></td>
 <td valign="top">
 
-**DEPLOYMENT**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/Vercel-334155?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Render-334155?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/Vercel-211B36?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Render-211B36?style=flat-square&logo=render&logoColor=46E3B7" alt="Render"/>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>Explore my computer science fundamentals</b></summary>
+<summary><b>📚 Core Computer Science Concepts</b></summary>
 
 <br/>
 
-`Object-Oriented Programming` · `Data Structures` · `Software Development Life Cycle` · `Operating Systems` · `Database Management Systems`
+`Object-Oriented Programming` · `Data Structures` · `Software Development Life Cycle` · `Operating Systems` · `DBMS`
 
 </details>
 
 ---
 
-## 03. Selected Work
+## 🚀 Featured Projects
 
 <div align="center">
 
-### Built with curiosity. Developed with purpose.
+### From Ideas to Deployed Applications
 
-*Three deployed applications that reflect my development journey.*
+*Three applications built to explore real-world development challenges.*
 
 </div>
 
@@ -231,44 +194,44 @@ I believe in learning by building — taking an idea, understanding the challeng
 <tr>
 <td width="50%" valign="top">
 
-### 01 — MindQuest
+<h3 align="center">🧠 MindQuest</h3>
+<p align="center"><b>Personalized AI-Powered Learning</b></p>
 
-**AI-Powered Learning & Quiz Platform**
+An interactive learning and quiz platform combining AI-assisted content with performance analytics.
 
-An interactive learning application combining quizzes, personalized learning experiences, and performance analytics.
-
-**What it offers**
-- AI-assisted quiz experience
-- Interactive MCQs
+**Features**
+- AI-assisted quizzes and MCQs
 - User authentication
-- Performance tracking and analytics
+- Performance analytics
+- Interactive learning interface
 
-**Stack**
+**Technologies**
 
 `React` `Node.js` `Express.js` `MongoDB` `Gemini API`
 
 </td>
 <td width="50%" valign="top">
 
-### 02 — CivicFix
+<h3 align="center">🏙️ CivicFix</h3>
+<p align="center"><b>Smart Civic Issue Reporting</b></p>
 
-**Civic Issue Reporting & Management**
+A full-stack platform enabling citizens to report civic problems and monitor issue resolution.
 
-A full-stack platform designed to help citizens report public infrastructure issues and follow their resolution.
-
-**What it offers**
-- Citizen, Authority & Admin roles
+**Features**
+- Citizen, Authority and Admin roles
 - Location-based issue reporting
 - Image uploads and categorization
-- Status updates and notifications
+- Status tracking and notifications
 
-**Stack**
+**Technologies**
 
 `React` `Node.js` `Express.js` `MongoDB`
 
+<p align="center">
 <a href="https://civic-fix-mu-plum.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="CivicFix Live Demo"/>
+<img src="https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="CivicFix Live Demo"/>
 </a>
+</p>
 
 </td>
 </tr>
@@ -276,44 +239,47 @@ A full-stack platform designed to help citizens report public infrastructure iss
 <tr>
 <td width="50%" valign="top">
 
-### 03 — StudentFlow
+<h3 align="center">💰 StudentFlow</h3>
+<p align="center"><b>Student Finance Tracker</b></p>
 
-**Student Finance Management Application**
+A student-focused web application for tracking income, expenses and financial records.
 
-A student-focused application for managing income, expenses, and financial records.
-
-**What it offers**
-- Income and expense tracking
-- Transaction management
-- Financial record organization
+**Features**
+- Income and expense management
+- Transaction tracking
+- Organized financial records
 - Database-backed functionality
 
-**Stack**
+**Technologies**
 
 `Python` `Flask` `MongoDB`
 
+<p align="center">
 <a href="https://github.com/NikhitaShivayogi/StudentFlow">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-334155?style=for-the-badge&logo=github&logoColor=white" alt="StudentFlow Repository"/>
+<img src="https://img.shields.io/badge/Source_Code-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="StudentFlow Repository"/>
 </a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### More from My GitHub
+<h3 align="center">✨ Explore More</h3>
+<p align="center"><b>Learning Through Building</b></p>
 
-Beyond these featured applications, I explore different areas of software engineering and computer science.
+I continuously work on projects exploring different areas of software engineering.
 
-**Areas I explore**
-
+**Focus Areas**
 - Full-Stack Web Development
 - Python and Java Applications
-- AI & Machine Learning
-- Reinforcement Learning
+- Artificial Intelligence
+- Machine Learning
 - Software Testing
 
+<p align="center">
 <a href="https://github.com/NikhitaShivayogi?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+<img src="https://img.shields.io/badge/View_Repositories-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
 </a>
+</p>
 
 </td>
 </tr>
@@ -321,34 +287,33 @@ Beyond these featured applications, I explore different areas of software engine
 
 ---
 
-## 04. Professional Experience
+## 💼 Professional Experience
 
 ### Python Full-Stack Web Development Intern
 
-**SkyllX** &nbsp; | &nbsp; February 2025 – April 2025
+**SkyllX** | February 2025 – April 2025
 
-Worked on practical web development projects, strengthening my understanding of application development and database integration.
-
-- Developed full-stack applications using **Python, HTML, CSS, JavaScript, and MySQL**.
-- Implemented **CRUD operations** and database connectivity.
-- Built responsive web interfaces and applied backend development concepts.
+- Developed full-stack web applications using Python, HTML, CSS, JavaScript and MySQL.
+- Implemented CRUD operations and database connectivity.
+- Built responsive web interfaces.
+- Gained hands-on experience in backend development and database integration.
 
 **Technologies:** `Python` `HTML` `CSS` `JavaScript` `MySQL`
 
 ---
 
-## 05. Academic Journey
+## 🎓 Education
 
-| Qualification | Institution | Timeline |
+| Degree | Institution | Duration |
 |---|---|---|
-| **Master of Computer Applications** | Presidency University, Bengaluru | 2025–2027 · Pursuing |
-| **Bachelor of Computer Applications** | ARJ BCA College, Ilkal | 2022–2025 · CGPA 9.0 |
+| **Master of Computer Applications (MCA)** | Presidency University, Bengaluru | 2025–2027 · Pursuing |
+| **Bachelor of Computer Applications (BCA)** | ARJ BCA College, Ilkal | 2022–2025 · CGPA: 9.0 |
 
 ---
 
-## 06. Certifications & Continuous Learning
+## 🏆 Certifications
 
-| Learning Milestone | Issued By |
+| Certification | Organization |
 |---|---|
 | Robotics | NPTEL |
 | Introduction to Prompt Engineering for Generative AI | LinkedIn Learning |
@@ -357,63 +322,78 @@ Worked on practical web development projects, strengthening my understanding of 
 
 ---
 
-## 07. Beyond Development
-
-I believe curiosity is an important part of becoming a better developer.
-
-Outside programming, I enjoy **exploring new knowledge, watching movies, and discovering mysteries of the paranormal world**.
-
-I'm also interested in learning about emerging technologies and finding new ways to apply them through software projects.
-
----
-
-## 08. My GitHub
+## 🌱 Currently Exploring
 
 <div align="center">
 
-**Explore my repositories, contributions, and ongoing projects.**
-
-<br/>
-
-<a href="https://github.com/NikhitaShivayogi?tab=repositories">
-  <img src="https://img.shields.io/badge/PROJECT_REPOSITORIES-334155?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-<a href="https://github.com/NikhitaShivayogi?tab=overview">
-  <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Contribution Activity"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=NikhitaShivayogi&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Full--Stack_Development-211B36?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-211B36?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="AI"/>
+<img src="https://img.shields.io/badge/Machine_Learning-211B36?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="ML"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-211B36?style=for-the-badge" alt="Reinforcement Learning"/>
+<img src="https://img.shields.io/badge/Software_Testing-211B36?style=for-the-badge" alt="Software Testing"/>
 
 </div>
 
 ---
 
-## 09. Let's Build Something Meaningful
+## 📊 GitHub Activity
 
 <div align="center">
 
-I'm interested in **software development opportunities, collaboration, and learning from the developer community**.
-
-Whether it's a project idea, a technical discussion, or a professional opportunity, I'd be happy to connect.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/nikhitashivayogi">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/NikhitaShivayogi?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
-<a href="mailto:nikhitashivayogi3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://nikhitashivayogi.github.io/Personal-Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+
+<a href="https://github.com/NikhitaShivayogi?tab=overview">
+<img src="https://img.shields.io/badge/View_Contributions-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
 </a>
 
 <br/><br/>
 
-### Learn. Build. Improve. Repeat.
+<img src="https://komarev.com/ghpvc/?username=NikhitaShivayogi&label=Profile+Views&color=9333EA&style=flat-square" alt="Profile Views"/>
 
-<sub>Thanks for stopping by! 💜</sub>
+</div>
+
+---
+
+## 🌸 Beyond Coding
+
+<div align="center">
+
+| 📚 Learning | 🎬 Movies | 🔮 Mysteries | 💡 Technology |
+|:---:|:---:|:---:|:---:|
+| Exploring new knowledge | Watching new movies | Curious about the paranormal world | Discovering new ideas |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### Have an idea or opportunity? Let's talk!
+
+I'm interested in learning, collaborating, and exploring opportunities in software development.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/nikhitashivayogi">
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:nikhitashivayogi3@gmail.com">
+<img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://nikhitashivayogi.github.io/Personal-Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+### 💜 Learn • Build • Innovate
+
+*Thank you for visiting my GitHub profile!*
 
 </div>
